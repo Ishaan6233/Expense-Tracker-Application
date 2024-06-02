@@ -1,1 +1,2 @@
 # Expense-Tracker-Application
+The Expense Tracker Application is a command-line based program built using Python. This project allows users to manage their personal expenses by adding, viewing, editing, and deleting expenses. It also provides functionalities to categorize expenses, generate reports, and visualize data using graphs. This project demonstrates advanced programming concepts such as object-oriented programming, file operations, and data visualization, making it an excellent example for intermediate to advanced Python learners.
